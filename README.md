@@ -15,10 +15,10 @@
 ## 📊 Dashboard Preview
  
 **Summary Page**
-![Summary](./summary_page.png)
+![Summary](./Summary_page.png)
  
 **Detail Page**
-![Detail](./detail_page.png)
+![Detail](./Detail_page.png)
  
 ---
  
